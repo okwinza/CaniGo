@@ -1,0 +1,12 @@
+## Interface: 60200
+## Title: CanIGo
+## Version: 0.5.2
+## Notes: Keep track of DRs on your character.
+## Author: Outstab-Aegwynn
+## SavedVariables: CanIGoDB
+
+#@no-lib-strip@
+Embeds.xml
+#@end-no-lib-strip@
+
+CanIGo.lua
